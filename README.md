@@ -1,1 +1,1 @@
-# g-r-nt-i-leme-dev
+# goruntu_isleme_odev
